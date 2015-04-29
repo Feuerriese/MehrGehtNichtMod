@@ -122,7 +122,7 @@ SG_CURSORSTEERING_MAXFIREANGLE;30;		// max cursor firing angle, must be < 90
 SG_MAX_DISTANCE_COMM;25000;				// largest Terran station ca 25km diameter, 12.5km radius
 SG_MAX_DISTANCE_BEAMING;5000;			// transporter device
 SG_MAX_VERTEXDIST_DOCKCOMPUTER;4000;	// distance to nearest vertex of station
-SG_MAX_DISTANCE_BUILDCOMPLEX;20000;		// distance between selected factories
+SG_MAX_DISTANCE_BUILDCOMPLEX;100000;		// distance between selected factories
 
 // 99
 SG_TRACKER_NUM_SHIP;10;
