@@ -156,9 +156,9 @@ SG_TRACTOR_SPRING_CONST;4369;		// fixed point spring constant
 SG_TRACTOR_SPEED_LIMIT;80;
 
 // 123
-SG_MISSILE_SWARM_COUNT;8;		// number of missiles in a swarm
+SG_MISSILE_SWARM_COUNT;4;		// number of missiles in a swarm
 SG_MISSILE_SWARM_ROT_TIME;15000;	// time for a full rotation in ms, 0 stops rotation
-SG_MISSILE_SWARM_WIGGLE_FACTOR;8192;	// random position variance, 65536/missilecount is a good base
+SG_MISSILE_SWARM_WIGGLE_FACTOR;16384;	// random position variance, 65536/missilecount is a good base
 
 // War parameters
 SG_WAR_SCORE_PLAYER_MULTIPLIER;20;
