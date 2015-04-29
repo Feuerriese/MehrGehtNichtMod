@@ -5,3 +5,5 @@ MASTER-branch: Hier werden neue (d.h. noch nicht vorhandene) Dateien erstellt. Ã
 Erweiterung des Forumthreads: http://forum.dvbtechnics.info/index.php
 
 Jons Liste: http://meetingwords.com/oBpKwpvp5d
+
+#define base=vanilla AP3.1+Lucikes Modcollection+adv. Scirocco+IEX 
