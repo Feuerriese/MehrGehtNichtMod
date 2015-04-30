@@ -1,0 +1,130 @@
+/===============================================================
+/ 3D Scene Information file C:\Documents and Settings\Bobby\Desktop\Next Update\objects\ships\yaki\yaki_m2_scene.bod
+/ Automatically generated from D:\Max Scenes\[CURRENT]\Yaki\Yaki_M2_scene.max
+/===============================================================
+/ EGOSOFT Bodyfile exporter version 3.53 [Jul 31 2007 12:17:29]
+VER: 3;
+/ >> Fri Jun 06 17:33:29 2008
+
+/ Akuma: Turret angles and some cameras corrected by Gazz 06.12.08
+
+/ Animation time interval: 0..16000
+/ >> Fri Jun 06 17:33:29 2008
+ / Staring Biped Key Reading/ >> Fri Jun 06 17:33:29 2008
+ / finished Biped Key Reading
+/     Fri Jun 06 17:33:29 2008
+/     Node Bships\yaki\Yaki_M2_1a Class [Editable Poly, GEOMOBJECT_CLASS_ID]
+P 0; B ships\yaki\Yaki_M2; C 1; N Bships\yaki\Yaki_M2_1a; b
+  { 0x2002;  0; 0; 0;  0.000000; 0.000000; 0.000000; 0.000000;  3333;  1; } // 1
+  { 0x2002;  0; 0; 0;  0.000000; 0.000000; 0.000000; 0.000000;  -1;  -1; } // -1
+
+/Turret front
+P 1; B ships\props\bigturret4_dummy; C 2; N Bships\props\bigturret4_dummy_2-01; b
+  { 0x2002;  -21569; 55961; 690940;  0.090; 0.000000; 0.000000; 1.000000;  3333;  1; } // 1
+  { 0x2002;  -21569; 55961; 690940;  0.090; 0.000000; 0.000000; 1.000000;  -1;  -1; } // -1
+
+/1x turret top
+P 2; B ships\props\bigturret5_dummy; C 6; N Bships\props\bigturret5_dummy_6-01; b
+  { 0x2002;  -12974; 121819; -515182;  0.250; -1.000; 0.000; 0.000;  3333;  1; } // 1
+  { 0x2002;  -12974; 121819; -515182;  0.250; -1.000; 0.000; 0.000;  -1;  -1; } // -1
+
+/ Cam Cockpit.   Original:  0; 36422; 707025
+P 3; B ships\props\cameradummy; C 1; N Bships\props\cameradummy_1-bridge; b
+  { 0x2002;  0; 173000; -204000;  0.000000; 0.000000; 0.000000; 0.000000;  -1;  -1; } // -1
+
+/ Cam turret front
+P 4; B ships\props\cameradummy; C 2; N Bships\props\cameradummy_2-front; b
+  { 0x2002;  0; 92000; 688000;  0.000000; 0.000000; 0.000000; 0.000000;  -1;  -1; } // -1
+
+/ Camera Turret rear
+P 5; B ships\props\cameradummy; C 4; N Bships\props\cameradummy_4-rear; b
+  { 0x2002;  0; 79415; -746573;  0.500000; 0.000000; 1.000000; -0.000000;  -1;  -1; } // -1
+
+/ Camera Turret top
+P 6; B ships\props\cameradummy; C 6; N Bships\props\cameradummy_6-top; b
+  { 0x2002;  0; 107415; 8520;  0.250; -1.000; 0.000; 0.000;  -1;  -1; } // -1
+/ Camera Turret bottom
+P 7; B ships\props\cameradummy; C 7; N Bships\props\cameradummy_7-bottom; b
+  { 0x2002;  0; -128441; -46894;  0.250; 1.000; 0.000; 0.000;  -1;  -1; } // -1
+/ Camera Turret right
+P 8; B ships\props\cameradummy; C 3; N Bships\props\cameradummy_3-right; b
+  { 0x2002;  50000; 150000; 20000;  0.250; 0.000; 1.000; 0.000;  -1;  -1; } // -1
+/ Camera Turret left
+P 9; B ships\props\cameradummy; C 5; N Bships\props\cameradummy_5-left; b
+  { 0x2002;  -50000; 150000; 20000;  0.250; 0.000; -1.000; 0.000;  -1;  -1; } // -1
+
+/Turret front
+P 10; B ships\props\bigturret4_dummy; C 2; N Bships\props\bigturret4_dummy_2-02; b
+  { 0x2002;  21569; 55961; 690940;  0.090; 0.000000; 0.000000; -1.000000;  3333;  1; } // 1
+  { 0x2002;  21569; 55961; 690940;  0.090; 0.000000; 0.000000; -1.000000;  -1;  -1; } // -1
+
+/4 x Turret right
+P 11; B ships\props\bigturret4_dummy; C 3; N Bships\props\bigturret4_dummy_3-01; b
+  { 0x2002;  46781; 97256; 85000;  0.250; 0.000; 1.000; 0.000;  3333;  1; } // 1
+  { 0x2002;  46781; 97256; 85000;  0.250; 0.000; 1.000; 0.000;  -1;  -1; } // -1
+P 12; B ships\props\bigturret4_dummy; C 3; N Bships\props\bigturret4_dummy_3-02; b
+  { 0x2002;  46781; 97256; 42750;  0.250; 0.000; 1.000; 0.000;  3333;  1; } // 1
+  { 0x2002;  46781; 97256; 42750;  0.250; 0.000; 1.000; 0.0000;  -1;  -1; } // -1
+P 13; B ships\props\bigturret4_dummy; C 3; N Bships\props\bigturret4_dummy_3-03; b
+  { 0x2002;  47959; 97753; -43250;  0.250; 0.000; 1.000; 0.000;  3333;  1; } // 1
+  { 0x2002;  47959; 97753; -43250;  0.250; 0.000; 1.000; 0.000;  -1;  -1; } // -1
+P 14; B ships\props\bigturret4_dummy; C 3; N Bships\props\bigturret4_dummy_3-04; b
+  { 0x2002;  46781; 97256; -500;  0.250; 0.000; 1.000; 0.000;  3333;  1; } // 1
+  { 0x2002;  46781; 97256; -500;  0.250; 0.000; 1.000; 0.0000;  -1;  -1; } // -1
+
+/4 x Turret left
+P 15; B ships\props\bigturret4_dummy; C 5; N Bships\props\bigturret4_dummy_5-04; b
+  { 0x2002;  -46781; 97256; 85000;  0.250; 0.000; -1.000; 0.000;  3333;  1; } // 1
+  { 0x2002;  -46781; 97256; 85000;  0.250; 0.000; -1.000; 0.000;  -1;  -1; } // -1
+P 16; B ships\props\bigturret4_dummy; C 5; N Bships\props\bigturret4_dummy_5-03; b
+  { 0x2002;  -46781; 97256; 42750;  0.250; 0.000; -1.000; 0.000;  3333;  1; } // 1
+  { 0x2002;  -46781; 97256; 42750;  0.250; 0.000; -1.000; 0.000;  -1;  -1; } // -1
+P 17; B ships\props\bigturret4_dummy; C 5; N Bships\props\bigturret4_dummy_5-02; b
+  { 0x2002;  -47959; 97753; -43250;  0.250; 0.000; -1.000; 0.000;  3333;  1; } // 1
+  { 0x2002;  -47959; 97753; -43250;  0.250; 0.000; -1.000; 0.000;  -1;  -1; } // -1
+P 18; B ships\props\bigturret4_dummy; C 5; N Bships\props\bigturret4_dummy_5-01; b
+  { 0x2002;  -46781; 97256; -500;  0.250; 0.000; -1.000; 0.000;  3333;  1; } // 1
+  { 0x2002;  -46781; 97256; -500;  0.250; 0.000; -1.000; 0.000;  -1;  -1; } // -1
+
+P 19; B ships\props\bigturret4_dummy; C 4; N Bships\props\bigturret4_dummy_4-01; b
+  { 0x2002;  -39981; 38975; -721362;  0.500000; -0.522801; 0.852455; -0.000000;  3333;  1; } // 1
+  { 0x2002;  -39981; 38975; -721362;  0.500000; -0.522801; 0.852455; -0.000000;  -1;  -1; } // -1
+/     Fri Jun 06 17:33:29 2008
+/     Node Bships\props\bigturret4_dummy_4-02 Class [Editable Mesh, GEOMOBJECT_CLASS_ID]
+P 20; B ships\props\bigturret4_dummy; C 4; N Bships\props\bigturret4_dummy_4-02; b
+  { 0x2002;  39779; 38941; -721362;  0.500000; 0.522801; 0.852455; 0.000000;  3333;  1; } // 1
+  { 0x2002;  39779; 38941; -721362;  0.500000; 0.522801; 0.852455; 0.000000;  -1;  -1; } // -1
+/     Fri Jun 06 17:33:29 2008
+/     Node Bships\props\bigturret4_dummy_4-03 Class [Editable Mesh, GEOMOBJECT_CLASS_ID]
+P 21; B ships\props\bigturret4_dummy; C 4; N Bships\props\bigturret4_dummy_4-03; b
+  { 0x2002;  0; -102967; -658767;  0.500000; 1.000000; -0.000000; 0.000000;  3333;  1; } // 1
+  { 0x2002;  0; -102967; -658767;  0.500000; 1.000000; -0.000000; 0.000000;  -1;  -1; } // -1
+
+/3x turret top
+P 22; B ships\props\bigturret5_dummy; C 6; N Bships\props\bigturret5_dummy_6-02; b
+  { 0x2002;  12691; 56542; 499279;  0.250; -1.000; 0.000; 0.000;  3333;  1; } // 1
+  { 0x2002;  12691; 56542; 499279;  0.250; -1.000; 0.000; 0.000;  -1;  -1; } // -1
+P 23; B ships\props\bigturret5_dummy; C 6; N Bships\props\bigturret5_dummy_6-03; b
+  { 0x2002;  -14969; 56542; 499279;  0.250; -1.000; 0.000; 0.000;  3333;  1; } // 1
+  { 0x2002;  -14969; 56542; 499279;  0.250; -1.000; 0.000; 0.000;  -1;  -1; } // -1
+P 24; B ships\props\bigturret5_dummy; C 6; N Bships\props\bigturret5_dummy_6-04; b
+  { 0x2002;  14177; 121819; -515182;  0.250; -1.000; 0.000; 0.000;  3333;  1; } // 1
+  { 0x2002;  14177; 121819; -515182;  0.250; -1.000; 0.000; 0.000;  -1;  -1; } // -1
+
+/4x turret bottom
+P 25; B ships\props\bigturret5_dummy; C 7; N Bships\props\bigturret5_dummy_7-01; b
+  { 0x2002;  23641; -118020; -497914;  0.250; 1.000; 0.000; 0.000;  3333;  1; } // 1
+  { 0x2002;  23641; -118020; -497914;  0.250; 1.000; 0.000; 0.000;  -1;  -1; } // -1
+P 26; B ships\props\bigturret5_dummy; C 7; N Bships\props\bigturret5_dummy_7-02; b
+  { 0x2002;  -0; -107079; 590905;  0.250; 1.000; 0.000; 0.000;  3333;  1; } // 1
+  { 0x2002;  -0; -107079; 590905;  0.250; 1.000; 0.000; 0.000;  -1;  -1; } // -1
+P 27; B ships\props\bigturret5_dummy; C 7; N Bships\props\bigturret5_dummy_7-03; b
+  { 0x2002;  0; -81851; -43944;  0.250; 1.000; 0.000; 0.000;  3333;  1; } // 1
+  { 0x2002;  0; -81851; -43944;  0.250; 1.000; 0.000; 0.000;  -1;  -1; } // -1
+P 28; B ships\props\bigturret5_dummy; C 7; N Bships\props\bigturret5_dummy_7-04; b
+  { 0x2002;  -23641; -118020; -497914;  0.250; 1.000; 0.000; 0.000;  3333;  1; } // 1
+  { 0x2002;  -23641; -118020; -497914;  0.250; 1.000; 0.000; 0.000;  -1;  -1; } // -1
+/1x Turret front
+P 29; B ships\props\bigturret4_dummy; C 2; N Bships\props\bigturret4_dummy_2-01; b
+  { 0x2002;  0; -107079; 650940;  0.50; 0.000000; 0.000000; 1.000000;  3333;  1; } // 1
+  { 0x2002;  0; -107079; 650940;  0.50; 0.000000; 0.000000; 1.000000;  -1;  -1; } // -1
