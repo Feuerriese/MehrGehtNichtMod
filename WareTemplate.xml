@@ -6696,6 +6696,22 @@
 				<o t="16" s="SS_WARE_SW_SUPPLY_1"/>
 				<o t="16" s="SS_WARE_BIOSCANNER"/>
 			</o>
-		</o>
+		</o>		
+		<o t="6" s="SS_FAC_P_NIV_M" x="7500000" y="0" z="120000000" r="1" a="0" b="0" g="0"> 
+			<o t="23" s="6"> 
+				<o t="11" s="SS_WARE_ENERGY"/> 
+			</o> 
+			<o t="23" s="7"> 
+				<o t="15" s="SS_WARE_NIVIDIUM2"/> 
+			</o> 
+		</o> 		
+		<o t="6" s="SS_FAC_P_NIV_L" x="7500000" y="0" z="120000000" r="1" a="0" b="0" g="0"> 
+			<o t="23" s="6"> 
+				<o t="11" s="SS_WARE_ENERGY"/> 
+			</o> 
+			<o t="23" s="7"> 
+				<o t="15" s="SS_WARE_NIVIDIUM2"/> 
+			</o> 
+		</o> 		
 	</o>
 </universe>
