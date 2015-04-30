@@ -1,0 +1,186 @@
+/# Exported with dbox2 1.13 from USC-105_asymmetricBridge.max at 2011.09.17. 21:37:13
+ 
+VER: 6;
+ 
+P 0; B 19099; C 1; N B19099_1; b  // idx 0
+{ 0x2002;  -1000; 5805; 624422;  0.500000; 0.000000; 1.000000; 0.000000;  -1; 1; } // 0
+
+P 1; B 19098; C 1; N B19098_1; b  // idx 1
+{ 0x2002;  167767; -2875; -280489;  0.256769; 0.000000; -1.000000; 0.000000;  -1; 1; } // 0
+
+P 2; B ships\props\bigturret4_dummy; C 3; N Bships\props\bigturret4_dummy_3a; b  // idx 2
+{ 0x2002;  277384; 10456; 185020;  0.250000; 0.000000; 1.000000; 0.000000;  -1; 1; } // 0
+
+P 3; B ships\props\bigturret4_dummy; C 3; N Bships\props\bigturret4_dummy_3b; b  // idx 3
+{ 0x2002;  277384; 10456; 141685;  0.250000; 0.000000; 1.000000; 0.000000;  -1; 1; } // 0
+
+P 4; B ships\props\bigturret4_dummy; C 3; N Bships\props\bigturret4_dummy_3c; b  // idx 4
+{ 0x2002;  277384; 10456; 97970;  0.250000; 0.000000; 1.000000; 0.000000;  -1; 1; } // 0
+
+P 5; B ships\props\bigturret4_dummy; C 3; N Bships\props\bigturret4_dummy_3d; b  // idx 5
+{ 0x2002;  277384; 10456; 56644;  0.250000; 0.000000; 1.000000; 0.000000;  -1; 1; } // 0
+
+P 6; B ships\props\bigturret4_dummy; C 4; N Bships\props\bigturret4_dummy_4a; b  // idx 6
+{ 0x2002;  -278174; 10456; 185035;  0.250000; 0.000000; -1.000000; 0.000000;  -1; 1; } // 0
+
+P 7; B ships\props\bigturret4_dummy; C 4; N Bships\props\bigturret4_dummy_4b; b  // idx 7
+{ 0x2002;  -278174; 10456; 141861;  0.250000; 0.000000; -1.000000; 0.000000;  -1; 1; } // 0
+
+P 8; B ships\props\bigturret4_dummy; C 4; N Bships\props\bigturret4_dummy_4c; b  // idx 8
+{ 0x2002;  -278174; 10456; 98012;  0.250000; 0.000000; -1.000000; 0.000000;  -1; 1; } // 0
+
+P 9; B ships\props\bigturret4_dummy; C 4; N Bships\props\bigturret4_dummy_4d; b  // idx 9
+{ 0x2002;  -278174; 10456; 57000;  0.250000; 0.000000; -1.000000; 0.000000;  -1; 1; } // 0
+
+P 10; B ships\props\bigturret4_dummy; C 7; N Bships\props\bigturret4_dummy_7a; b  // idx 10
+{ 0x2002;  -167372; 12448; -1101448;  0.500000; -0.087156; 0.996195; 0.000000;  -1; 1; } // 0
+
+P 11; B ships\props\bigturret4_dummy; C 7; N Bships\props\bigturret4_dummy_7b; b  // idx 11
+{ 0x2002;  167984; 12448; -1101448;  0.500000; 0.087156; 0.996195; -0.000000;  -1; 1; } // 0
+
+P 12; B ships\props\bigturret4_dummy; C 7; N Bships\props\bigturret4_dummy_7c; b  // idx 12
+{ 0x2002;  167868; -12384; -1100948;  0.500000; 0.996195; 0.087156; -0.000000;  -1; 1; } // 0
+
+P 13; B ships\props\bigturret4_dummy; C 7; N Bships\props\bigturret4_dummy_7d; b  // idx 13
+{ 0x2002;  -167492; -12384; -1100948;  0.500000; 0.996195; -0.087156; -0.000000;  -1; 1; } // 0
+
+P 14; B ships\props\bigturret4_dummy; C 6; N Bships\props\bigturret4_dummy_6a; b  // idx 14
+{ 0x2002;  14938; -93761; -413764;  0.666667; -0.577350; -0.577350; 0.577350;  -1; 1; } // 0
+
+P 15; B ships\props\bigturret4_dummy; C 6; N Bships\props\bigturret4_dummy_6b; b  // idx 15
+{ 0x2002;  14938; -93761; -333125;  0.666667; -0.577350; -0.577350; 0.577350;  -1; 1; } // 0
+
+P 16; B ships\props\bigturret4_dummy; C 6; N Bships\props\bigturret4_dummy_6c; b  // idx 16
+{ 0x2002;  -14938; -93761; -333125;  0.333333; 0.577350; -0.577350; 0.577350;  -1; 1; } // 0
+
+P 17; B ships\props\bigturret4_dummy; C 6; N Bships\props\bigturret4_dummy_6d; b  // idx 17
+{ 0x2002;  -14938; -93761; -413972;  0.333333; 0.577350; -0.577350; 0.577350;  -1; 1; } // 0
+
+P 18; B ships\props\bigturret4_dummy; C 5; N Bships\props\bigturret4_dummy_5a; b  // idx 18
+{ 0x2002;  -40300; 73296; -11261;  0.250000; -1.000000; -0.000000; 0.000000;  -1; 1; } // 0
+
+P 19; B ships\props\bigturret4_dummy; C 5; N Bships\props\bigturret4_dummy_5b; b  // idx 19
+{ 0x2002;  40300; 73296; -11261;  0.250000; -1.000000; -0.000000; 0.000000;  -1; 1; } // 0
+
+P 20; B ships\props\bigturret4_dummy; C 5; N Bships\props\bigturret4_dummy_5c; b  // idx 20
+{ 0x2002;  40300; 73296; 16325;  0.500000; 0.000000; 0.707107; 0.707107;  -1; 1; } // 0
+
+P 21; B ships\props\bigturret4_dummy; C 5; N Bships\props\bigturret4_dummy_5d; b  // idx 21
+{ 0x2002;  -40300; 73296; 16325;  0.500000; 0.000000; 0.707107; 0.707107;  -1; 1; } // 0
+
+P 22; B ships\props\bigturret4_dummy; C 2; N Bships\props\bigturret4_dummy_2a; b  // idx 22
+{ 0x2002;  -105958; -19334; 1094992;  0.458333; 0.000000; 0.000000; 1.000000;  -1; 1; } // 0
+
+P 23; B ships\props\bigturret4_dummy; C 2; N Bships\props\bigturret4_dummy_2b; b  // idx 23
+{ 0x2002;  -130236; -13169; 1094992;  0.458333; 0.000000; 0.000000; 1.000000;  -1; 1; } // 0
+
+P 24; B ships\props\bigturret4_dummy; C 2; N Bships\props\bigturret4_dummy_2c; b  // idx 24
+{ 0x2002;  105734; -19597; 1094992;  0.541667; 0.000000; -0.000000; 1.000000;  -1; 1; } // 0
+
+P 25; B ships\props\bigturret4_dummy; C 2; N Bships\props\bigturret4_dummy_2d; b  // idx 25
+{ 0x2002;  129516; -13324; 1094992;  0.541667; 0.000000; -0.000000; 1.000000;  -1; 1; } // 0
+
+P 26; B 78; N 78;  // idx 26
+{ 0x2002;  0; 140600; -748228;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 27; B 78; N 78;  // idx 27
+{ 0x2002;  0; 140600; -748228;  0.250000; 0.000000; 1.000000; 0.000000;  -1; 1; } // 0
+
+P 28; B 78; N 78;  // idx 28
+{ 0x2002;  0; 140600; -748228;  0.666667; -0.577350; -0.577350; 0.577350;  -1; 1; } // 0
+
+P 29; B 78; N 78;  // idx 29
+{ 0x2002;  114174; 119571; 1020309;  0.250000; 0.000000; 1.000000; 0.000000;  -1; 1; } // 0
+
+P 30; B 78; N 78;  // idx 30
+{ 0x2002;  114174; 119571; 1020309;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 31; B 78; N 78;  // idx 31
+{ 0x2002;  114174; 119571; 1020309;  0.666667; -0.577350; -0.577350; 0.577350;  -1; 1; } // 0
+
+P 32; B 78; N 78;  // idx 32
+{ 0x2002;  -113976; 119571; 1020309;  0.666667; -0.577350; -0.577350; 0.577350;  -1; 1; } // 0
+
+P 33; B 78; N 78;  // idx 33
+{ 0x2002;  -113976; 119571; 1020309;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 34; B 78; N 78;  // idx 34
+{ 0x2002;  -113976; 119571; 1020309;  0.250000; 0.000000; 1.000000; 0.000000;  -1; 1; } // 0
+
+P 35; B 78; N 78;  // idx 35
+{ 0x2002;  0; -128111; -440622;  0.250000; 0.000000; 1.000000; 0.000000;  -1; 1; } // 0
+
+P 36; B 78; N 78;  // idx 36
+{ 0x2002;  0; -128111; -440622;  0.666667; -0.577350; -0.577350; 0.577350;  -1; 1; } // 0
+
+P 37; B 78; N 78;  // idx 37
+{ 0x2002;  0; -128111; -440622;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 38; B effects\engines\fx_engine_emitter; N Beffects\engines\fx_engine_emitter; b  // idx 38
+{ 0x2002;  0; -1832; -1133942;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 39; B effects\engines\fx_engine_emitter; N Beffects\engines\fx_engine_emitter; b  // idx 39
+{ 0x2002;  -56000; -1494; -1120447;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 40; B effects\engines\fx_engine_emitter; N Beffects\engines\fx_engine_emitter; b  // idx 40
+{ 0x2002;  56000; -1494; -1120447;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 41; B effects\engines\fx_engine_xtc_white_huge; C 28673; N Beffects\engines\fx_engine_xtc_white_huge_28673b; b  // idx 41
+{ 0x2002;  -56000; -1514; -1150727;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 42; B effects\engines\fx_engine_xtc_white_huge; C 28673; N Beffects\engines\fx_engine_xtc_white_huge_28673b; b  // idx 42
+{ 0x2002;  56000; -1514; -1150727;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 43; B effects\engines\fx_engine_xtc_white_huge; C 28673; N Beffects\engines\fx_engine_xtc_white_huge_28673b; b  // idx 43
+{ 0x2002;  -382; -1704; -1164109;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 44; B ships\props\cameradummy; C 1; N Bships\props\cameradummy_1; b  // idx 44
+{ 0x2002;  0; 180046; -531297;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 45; B ships\props\cameradummy; C 2; N Bships\props\cameradummy_2; b  // idx 45
+{ 0x2002;  -130884; 2184; 1112294;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 46; B ships\props\cameradummy; C 3; N Bships\props\cameradummy_3; b  // idx 46
+{ 0x2002;  288784; -10299; 137629;  0.250000; 0.000000; 1.000000; 0.000000;  -1; 1; } // 0
+
+P 47; B ships\props\cameradummy; C 4; N Bships\props\cameradummy_4; b  // idx 47
+{ 0x2002;  -295789; -10299; 137629;  0.250000; 0.000000; -1.000000; 0.000000;  -1; 1; } // 0
+
+P 48; B ships\props\cameradummy; C 5; N Bships\props\cameradummy_5; b  // idx 48
+{ 0x2002;  0; 90074; -68849;  0.250000; -1.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 49; B ships\props\cameradummy; C 6; N Bships\props\cameradummy_6; b  // idx 49
+{ 0x2002;  0; -110622; -278843;  0.250000; 1.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 50; B ships\props\cameradummy; C 7; N Bships\props\cameradummy_7; b  // idx 50
+{ 0x2002;  0; 56998; -1138874;  0.500000; 1.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 51; B 19098; C 1; N B19098_01; b  // idx 51
+{ 0x2002;  -172286; -2875; -281205;  0.243231; 0.000000; 1.000000; 0.000000;  -1; 1; } // 0
+
+P 52; B 19098; C 1; N B19098_1; b  // idx 52
+{ 0x2002;  -172286; -2875; -350230;  0.243231; 0.000000; 1.000000; 0.000000;  -1; 1; } // 0
+
+P 53; B 19098; C 1; N B19098_1; b  // idx 53
+{ 0x2002;  -172286; -2875; -210812;  0.243231; 0.000000; 1.000000; 0.000000;  -1; 1; } // 0
+
+P 54; B 19098; C 1; N B19098_1; b  // idx 54
+{ 0x2002;  167767; -2875; -209979;  0.256769; 0.000000; -1.000000; 0.000000;  -1; 1; } // 0
+
+P 55; B 19098; C 1; N B19098_1; b  // idx 55
+{ 0x2002;  167831; -2875; -349703;  0.256769; 0.000000; -1.000000; 0.000000;  -1; 1; } // 0
+
+P 56; B ships\x3ap\usc\XTC_usc_m2plus; N Bships\XTC\usc\XTC_usc_m2plus; b  // idx 56
+{ 0x2002;  0; 0; 0;  0.000000; 0.000000; 0.000000; 0.000000;  -1; 1; } // 0
+
+P 57; B ships\props\bigturret4_dummy; C 3; N Bships\props\bigturret4_dummy_3a; b  // idx 57
+{ 0x2002;  277384; 10456; 228020;  0.250000; 0.000000; 1.000000; 0.000000;  -1; 1; } // 0
+
+P 58; B ships\props\bigturret4_dummy; C 3; N Bships\props\bigturret4_dummy_3b; b  // idx 58
+{ 0x2002;  277384; 10456; 13644;  0.250000; 0.000000; 1.000000; 0.000000;  -1; 1; } // 0
+
+P 59; B ships\props\bigturret4_dummy; C 4; N Bships\props\bigturret4_dummy_4a; b  // idx 59
+{ 0x2002;  -278174; 10456; 228035;  0.250000; 0.000000; -1.000000; 0.000000;  -1; 1; } // 0
+
+P 60; B ships\props\bigturret4_dummy; C 4; N Bships\props\bigturret4_dummy_4b; b  // idx 60
+{ 0x2002;  -278174; 10456; 14000;  0.250000; 0.000000; -1.000000; 0.000000;  -1; 1; } // 0
