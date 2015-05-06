@@ -6712,6 +6712,21 @@
 			<o t="23" s="7"> 
 				<o t="15" s="SS_WARE_NIVIDIUM2"/> 
 			</o> 
-		</o> 		
+		</o>
+        <!--Produktionskomplex Baluga Rakete (Terraner)-->
+        <o t="6" s="SS_FAC_MISSILE_TR1" x="0" y="0" z="0" r="1" a="0" b="0" g="0">
+            <o t="23" s="6">
+                <o t="11" s="SS_WARE_ENERGY"/>
+                <o t="13" s="SS_WARE_WATER"/>
+                <o t="14" s="SS_WARE_TR_F6"/>
+                <o t="15" s="SS_WARE_ORE"/>
+            </o>
+            <o t="23" s="7">
+                <o t="10" s="SS_MISSILE_TR1"/>
+            </o>
+            <o t="23" s="8">
+                <o t="16" s="SS_WARE_TR_TECH7"/>
+            </o>
+        </o> 		
 	</o>
 </universe>
